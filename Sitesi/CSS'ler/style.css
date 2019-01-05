@@ -1,0 +1,16 @@
+#{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: 12px Arial;
+}
+a {text-decoration: none;}
+ul{list-style: none;}
+
+
+#slider {margin: 20px; width: 500px;}
+.slider {width: 500px; height: 200px; overflow:hidden;}
+.slider ul {overflow: hidden;}
+.slider ul li {width: 500px; height: 200px; float: left;}
+.sliderButon{text-align: right; padding-top: 10px;}
+.sliderButon{background: #333; color: #fff; padding:5px;}
